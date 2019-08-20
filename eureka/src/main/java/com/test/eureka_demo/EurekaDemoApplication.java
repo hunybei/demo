@@ -18,7 +18,7 @@ public class EurekaDemoApplication {
 
     @GetMapping("/hello")
     public String hello() {
-        return "demo 下的 eureka  update 1";
+        return "demo 下的 eureka  update 2";
     }
 
 }

@@ -17,6 +17,6 @@ public class InstanceApplication {
 
     @GetMapping("hello")
     public String hello() {
-        return "demo 下的 instance";
+        return "demo 下的 instance update 2";
     }
 }
